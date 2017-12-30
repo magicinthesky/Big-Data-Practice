@@ -1,8 +1,11 @@
 ## Technique: JAVA and Hadoop/MapReduce
 
 **Question 1**: Find mutual friends from friend lists
+
 **Question 2**: Find the total number of mutual friends within the Top 10 among all pairs
+
 **Question 3**: List info of the Top 10 businesses based on the average ratings
+
 **Question 4**: List the user_id and rating from users that reviewed businesses in 'Palo Alto'
 
 ## How to run:
