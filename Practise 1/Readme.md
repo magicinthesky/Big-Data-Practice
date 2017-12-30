@@ -1,4 +1,4 @@
-Technique: JAVA and Hadoop/MapReduce
+#Technique: JAVA and Hadoop/MapReduce
 
 Question 1: Find mutual friends from friend lists
 Question 2: Find the total number of mutual friends within the Top 10 among all pairs
