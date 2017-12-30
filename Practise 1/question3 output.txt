@@ -1,0 +1,10 @@
+-6fMAgRynU3iL_ZbQV3eLw	1915 W Arrow RteUpland, CA 91786List(Home Services, Heating & Air Conditioning/HVAC),5.0
+-7qJEs6xTssXME2itowdxA	4705 16th Ave NEUniversity DistrictSeattle, WA 98105List(Books, Mags, Music and Video, Shopping, Bookstores),5.0
+-7r5-GDmuXsgRhkBnN0nqA	220 Russell StSte 100Hadley, MA 01035List(Active Life, Gyms, Fitness & Instruction),5.0
+-H10Dd0OMVWL843ErsV6VA	One Liberty Place1650 Market St, 36th FlMantuaPhiladelphia, PA 19103List(Wedding Planning, Event Planning & Services, Party & Event Planning),5.0
+-J5wUuLJdr0s28InPxGkmw	1821 Murray AveSquirrel HillPittsburgh, PA 15217List(Optometrists, Health and Medical),5.0
+-O692rQHIFNJBst2LJRbvA	Manhattan ValleyManhattan, NY 10025List(Local Services, IT Services & Computer Repair, Electronics Repair),5.0
+-OHH-CAN2QsCoIGHmst8qQ	1800 Lavaca StSte 109DowntownAustin, TX 78701List(Hotels & Travel, Travel Services),5.0
+-OHi0FOlVjVkdOhJQdTNOA	418 Semple StOaklandPittsburgh, PA 15213List(Dive Bars, Bars, Nightlife),5.0
+-PTFC3mr_YWshXlvDu2w6g	The Garage Mall36 JFK St2nd FlHarvard SquareCambridge, MA 02138List(Shopping, Home Decor, Home & Garden),5.0
+-Tiy3NmLikBRA5NgMS_bWA	2826 Rio Grande StreetWest CampusAustin, TX 78705List(Hair Salons, Beauty and Spas),5.0
