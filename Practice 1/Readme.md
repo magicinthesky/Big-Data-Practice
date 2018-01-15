@@ -8,6 +8,7 @@
 
 **Question 4**: List the user_id and rating from users that reviewed businesses in 'Palo Alto'
 
+
 ## How to run:
 Question 1:
   > hadoop jar <question1.jar> <soc-LiveJournal1Adj.txt> <out1>
