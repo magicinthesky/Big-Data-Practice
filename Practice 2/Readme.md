@@ -8,6 +8,7 @@
 
 **Question 4**: List the user_id and rating from users that reviewed businesses in 'Palo Alto'
 
+
 ## How to run:
 > 1. Create a new project and choose "2.7.14(~anaconda2/bin/python)" as interpreter in PyCharm  
 > 2. put all 8 source code files into the project root directory of PyCharm   
