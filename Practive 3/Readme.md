@@ -1,8 +1,9 @@
 ## Technique: Python, Spark Streaming and Kafka
 
-
-### Interpreter environment: 2.7.14(~anaconda2/bin/python)
-
+## Description:  
+• Developed web scraper to collect tweets in real-time with given hashtags using Python and Tweepy  
+• Pre-processed collected tweets using Spark Streaming  
+• Implemented the real-time sentiment analysis (positive, negative or neutral) of tweets using Kafka and Textblob  
 
 ## How to run:
 > 1. Open terminal 1, install kafka and change directory to /kafka_2.11-1.0.0, and run command: 
